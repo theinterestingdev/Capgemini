@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/DiscountCalculator/DiscountCalculator.iml" filepath="$PROJECT_DIR$/DiscountCalculator/DiscountCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DistanceConversion/DistanceConversion.iml" filepath="$PROJECT_DIR$/DistanceConversion/DistanceConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/DistributionManager/DistributionManager.iml" filepath="$PROJECT_DIR$/DistributionManager/DistributionManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeightConversion/HeightConversion.iml" filepath="$PROJECT_DIR$/HeightConversion/HeightConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProfitLossCalculator/ProfitLossCalculator.iml" filepath="$PROJECT_DIR$/ProfitLossCalculator/ProfitLossCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/VolumeOfEarth/VolumeOfEarth.iml" filepath="$PROJECT_DIR$/VolumeOfEarth/VolumeOfEarth.iml" />
     </modules>
