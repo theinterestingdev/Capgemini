@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AgeCalculator/AgeCalculator.iml" filepath="$PROJECT_DIR$/AgeCalculator/AgeCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AverageMarks/AverageMarks.iml" filepath="$PROJECT_DIR$/AverageMarks/AverageMarks.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Capgemini.iml" filepath="$PROJECT_DIR$/.idea/Capgemini.iml" />
     </modules>
   </component>
