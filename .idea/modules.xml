@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AgeCalculator/AgeCalculator.iml" filepath="$PROJECT_DIR$/AgeCalculator/AgeCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/AverageMarks/AverageMarks.iml" filepath="$PROJECT_DIR$/AverageMarks/AverageMarks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicCalculator/BasicCalculator.iml" filepath="$PROJECT_DIR$/BasicCalculator/BasicCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Capgemini.iml" filepath="$PROJECT_DIR$/.idea/Capgemini.iml" />
       <module fileurl="file://$PROJECT_DIR$/DiscountCalculator/DiscountCalculator.iml" filepath="$PROJECT_DIR$/DiscountCalculator/DiscountCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DistanceConversion/DistanceConversion.iml" filepath="$PROJECT_DIR$/DistanceConversion/DistanceConversion.iml" />
