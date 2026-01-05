@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8660334c-aedf-4a22-a21c-9a914b5e9ca1" name="Changes" comment="" />
+    <list default="true" id="8660334c-aedf-4a22-a21c-9a914b5e9ca1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,10 +40,11 @@
     "Application.VolumeOfEarth.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feature",
+    "git-widget-placeholder": "05-01-2026",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Kartik/Documents/Capgemini",
@@ -69,7 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1767155694520</updated>
       <workItem from="1767155695844" duration="8315000" />
-      <workItem from="1767585161214" duration="2030000" />
+      <workItem from="1767585161214" duration="2871000" />
+      <workItem from="1767611996901" duration="48000" />
     </task>
     <servers />
   </component>
