@@ -4,6 +4,12 @@ Capgemini Progress Record
 
 ## Work Updates
 
+### 06-01-2026
+- Revised concepts of 1D, 2D, and 3D arrays
+- Studied how memory address is calculated using base + index × size
+- Clarified that 1-based indexing adds additional overhead (-1 operation)
+- Understood why arrays start from index 0 instead of 1
+
 ### 05-01-2026
 - Revised rules of static vs non-static methods and access limitations
 - Understood that static methods cannot directly call non-static methods
