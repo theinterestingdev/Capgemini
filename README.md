@@ -1,2 +1,0 @@
-# Capgemini
-Capgemini Progress Record
