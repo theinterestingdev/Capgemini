@@ -4,6 +4,12 @@ Capgemini Progress Record
 
 ## Work Updates
 
+### 07-01-2026
+- Solved practice questions on GFG (problems 17–20)
+- Completed assignment on Java methods
+- Practiced method creation.
+
+
 ### 06-01-2026
 - Revised concepts of 1D, 2D, and 3D arrays
 - Studied how memory address is calculated using base + index × size
