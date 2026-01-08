@@ -4,6 +4,11 @@ Capgemini Progress Record
 
 ## Work Updates
 
+### 08-01-2026
+- Solved Questions on String
+- Revised concepts of String [String pool,String Buffer,String Tokenizer]
+
+
 ### 07-01-2026
 - Solved practice questions on GFG (problems 17–20)
 - Completed assignment on Java methods
