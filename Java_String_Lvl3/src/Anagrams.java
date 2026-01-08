@@ -7,6 +7,7 @@ public class Anagrams {
         int[] freq1 = new int[256];
         int[] freq2 = new int[256];
 
+
         if(text1.length()!=text2.length()){
             return false;
         }
