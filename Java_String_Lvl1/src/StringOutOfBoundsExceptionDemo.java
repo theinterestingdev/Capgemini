@@ -16,12 +16,7 @@ public class StringOutOfBoundsExceptionDemo {
     public static void main(String[] args) {
 
         String text = "abc";
-
-
         handleException(text);
-
-
-
     }
 
 }
