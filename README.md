@@ -4,6 +4,10 @@ Capgemini Progress Record
 
 ## Work Updates
 
+
+### 14-01-2026
+- Solved Practice Questions on Edabit Platform
+
 ### 13-01-2026
 - Solved GFG Questions
 
