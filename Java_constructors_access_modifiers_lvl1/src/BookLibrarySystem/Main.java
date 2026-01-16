@@ -2,9 +2,9 @@ package BookLibrarySystem;
 
 class Book1 {
 
-    public String ISBN;          // public
-    protected String title;      // protected
-    private String author;       // private
+    public String ISBN;
+    protected String title;
+    private String author;
 
 
     public Book1(String ISBN, String title, String author) {
@@ -40,16 +40,16 @@ class EBook extends Book1 {
     }
 }
 
-// Main class (only public class)
+
 public class Main {
     public static void main(String[] args) {
 
         Book1 book = new Book1("978-12345", "Java Basics", "James Gosling");
 
-        // Accessing author using getter
+
         System.out.println("Author: " + book.getAuthor());
 
-        // Updating author using setter
+
         book.setAuthor("Oracle Corp");
         System.out.println("Updated Author: " + book.getAuthor());
 

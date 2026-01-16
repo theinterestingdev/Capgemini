@@ -45,21 +45,19 @@ class PostgraduateStudent extends Student {
     }
 }
 
-// Student.Main class
+
 public class Main {
     public static void main(String[] args) {
-
-        // Creating Student.Student object
         Student s1 = new Student(101, "Kartik", 8.75);
         s1.display();
 
-        // Updating CGPA using setter
+
         s1.setCGPA(9.1);
         System.out.println("Updated CGPA: " + s1.getCGPA());
 
         System.out.println();
 
-        // Creating Postgraduate Student.Student
+
         PostgraduateStudent pg = new PostgraduateStudent(202, "Sharma", 9.4, "AI Research");
         pg.showPGDetails();
     }
