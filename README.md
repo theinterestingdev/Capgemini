@@ -4,6 +4,9 @@ Capgemini Progress Record
 
 ## Work Updates
 
+## 15-01-2026
+- Solved Java Class Related Questions
+
 
 ### 14-01-2026
 - Solved Practice Questions on Edabit Platform
