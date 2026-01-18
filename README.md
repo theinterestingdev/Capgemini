@@ -4,6 +4,14 @@ Capgemini Progress Record
 
 ## Work Updates
 
+## 18-01-2026
+- Questions on this,static,final,instanceof 
+
+
+## 16-01-2026
+- Questions on Contructors and access modifiers
+
+
 ## 15-01-2026
 - Solved Java Class Related Questions
 
