@@ -23,7 +23,7 @@ public class Person {
         System.out.println("Person's name : "+name);
         System.out.println("Person's gender : "+gender);
         System.out.println("Person's age : "+age);
-        System.out.println("======================================");
+        System.out.println("=======================================");
     }
 
     public static void main(String[] args) {
