@@ -4,6 +4,9 @@ Capgemini Progress Record
 
 ## Work Updates
 
+## 19-01-2026
+- Questions based on inheritance
+
 ## 18-01-2026
 - Questions on this,static,final,instanceof 
 
