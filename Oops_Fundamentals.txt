@@ -1,0 +1,44 @@
+OOPS is about controlling complexity.
+When programs grow, functions alone become messy. OOPS groups data and behavior together so the code behaves like real-world entities and stays maintainable.
+
+A class exists to define what an object knows and what it can do.
+An object exists to represent one real instance with its own state.
+Multiple objects share behavior but never share state unless you force them to.
+
+Encapsulation is not about getters and setters.
+It is about protecting invariants.
+You hide data so nobody can put the object into an invalid state.
+If state changes only through methods, the object stays correct.
+
+Inheritance is not for code reuse.
+It is for is-a relationships.
+If inheritance breaks logical substitution, it’s wrong.
+A child must behave like the parent without surprising the caller.
+
+Polymorphism exists so code depends on behavior, not implementation.
+The caller doesn’t care which subclass is used — only that the contract is respected.
+This removes conditionals and makes systems extensible.
+
+Method overloading is resolved at compile time because the compiler knows parameter types.
+Method overriding is resolved at runtime because the actual object type is known only then.
+
+Abstraction is about promises, not hiding code.
+An abstract class or interface defines what must be done, not how.
+This allows independent development and loose coupling.
+
+Interfaces define capability.
+Abstract classes define identity plus partial behavior.
+If you need multiple inheritance of behavior — use interfaces.
+If you need shared state or base logic — use abstract classes.
+
+this exists to resolve ambiguity between object state and method parameters.
+super exists to preserve parent behavior when extending it.
+
+static breaks OOPS on purpose.
+It belongs to the class, not the object.
+Use it only when behavior truly has no state.
+
+final is a design decision.
+Final variables prevent accidental change.
+Final methods prevent broken polymorphism.
+Final classes prevent unsafe inheritance.
